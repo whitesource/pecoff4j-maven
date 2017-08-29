@@ -6,7 +6,7 @@
 
     <groupId>org.boris</groupId>
     <artifactId>pecoff4j</artifactId>
-    <version>0.0.2.1-whitesource</version>
+    <version>0.0.2.1</version>
 
     <licenses>
         <license>
