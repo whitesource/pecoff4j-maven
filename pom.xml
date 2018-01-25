@@ -7,6 +7,19 @@
     <groupId>org.whitesource</groupId>
     <artifactId>pecoff4j</artifactId>
     <version>0.0.2.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
+
+    <name>pecoff4j</name>
+    <description>PE/COFF 4J is a java engineering library for portable executables, the format used by Windows.</description>
+    <url>https://github.com/whitesource/pecoff4j-maven</url>
+
+    <developers>
+        <developer>
+            <id>adutra</id>
+            <name>Amir Szekely</name>
+            <url>https://github.com/kichik</url>
+        </developer>
+    </developers>
 
     <licenses>
         <license>
