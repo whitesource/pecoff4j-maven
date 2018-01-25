@@ -4,7 +4,7 @@
 
     <groupId>org.whitesource</groupId>
     <artifactId>pecoff4j</artifactId>
-    <version>0.0.2.1</version>
+    <version>0.0.2.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>pecoff4j</name>
@@ -30,7 +30,7 @@
         <developerConnection>scm:git:ssh://git@github.com/whitesource/pecoff4j-maven.git</developerConnection>
         <connection>scm:git:ssh://git@github.com/whitesource/pecoff4j-maven.git</connection>
         <url>git:ssh://git@github.com/whitesource/pecoff4j-maven.git</url>
-        <tag>0.0.2.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
